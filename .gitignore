@@ -1,0 +1,5 @@
+# Ignore question banks and test answers PDFs
+*Question Bank*.pdf
+nlp_pt1_*.pdf
+.ipynb_checkpoints/
+__pycache__/
