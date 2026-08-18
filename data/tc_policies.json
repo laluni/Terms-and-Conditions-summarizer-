@@ -1,0 +1,60 @@
+{
+  "policies": [
+    {
+      "company": "Amazon",
+      "document_title": "Conditions of Use",
+      "version": "2024.1",
+      "effective_date": "2024-01-01",
+      "sections": [
+        {
+          "section_name": "Privacy",
+          "clauses": [
+            "Please review our Privacy Notice, which also governs your use of Amazon Services, to understand our practices."
+          ]
+        },
+        {
+          "section_name": "Account Responsibilities",
+          "clauses": [
+            "You are responsible for maintaining the confidentiality of your account and password.",
+            "Amazon reserves the right to refuse service or terminate accounts in its sole discretion."
+          ]
+        },
+        {
+          "section_name": "Limitation of Liability",
+          "clauses": [
+            "Services are provided on an as is and as available basis.",
+            "Amazon will not be liable for any damages of any kind arising from the use of any Amazon Service."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Alibaba",
+      "document_title": "Free Membership Agreement",
+      "version": "2023.2",
+      "effective_date": "2023-06-15",
+      "sections": [
+        {
+          "section_name": "Acceptance",
+          "clauses": [
+            "By accessing the Sites or using the Services, you agree to accept and be bound by the Terms.",
+            "Alibaba.com may amend any Terms at any time without prior individual notice."
+          ]
+        },
+        {
+          "section_name": "Termination",
+          "clauses": [
+            "Alibaba.com reserves the right to immediately suspend or terminate your account without notice."
+          ]
+        },
+        {
+          "section_name": "Limitation of Liability",
+          "clauses": [
+            "Services are provided with all faults and without warranties of durability or merchantability.",
+            "Under no circumstances shall Alibaba.com be held liable for loss of profits or business interruption."
+          ]
+        }
+      ]
+    }
+  ]
+}
